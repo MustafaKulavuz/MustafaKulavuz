@@ -43,11 +43,15 @@
 
 ### 📊 GitHub İstatistiklerim
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MustafaKulavuz&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaKulavuz&layout=compact&theme=radical&hide_border=true" height="180px" />
-</div>
+### 📊 GitHub İstatistiklerim
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MustafaKulavuz&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaKulavuz&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 <br>
 
 ### ⚡ Şu An Ne Yapıyorum?
