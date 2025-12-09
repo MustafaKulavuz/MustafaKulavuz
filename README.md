@@ -2,7 +2,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mustafa%20Kulavuz&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 
-  ### 👨‍💻 Web Developer & Frontend Enthusiast
+  ### 👨‍💻 Web Developer & BackEnd Enthusiast
 
   <p>
     Merhaba! Ben <b>Mustafa Kulavuz</b>. <br>
