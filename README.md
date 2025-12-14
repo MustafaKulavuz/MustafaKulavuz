@@ -36,7 +36,7 @@
 
 | Proje Adı | Açıklama | Teknoloji | Link |
 | :--- | :--- | :--- | :--- |
-| **🧭 Kulavuz Finans** | Kişisel bütçe takibi yapan, harcama alışkanlıklarına göre **Yapay Zeka** mantığıyla öneriler sunan finansal asistan uygulaması. Verileri tarayıcı hafızasında (LocalStorage) saklar. | `JS`, `Chart.js`, `CSS` | [Canlı İzle](https://mustafakulavuz.github.io/kulavuz-finans-v2/) |
+| **🧭 Kulavuz Finans** | Kişisel bütçe takibi yapan, harcama alışkanlıklarına göre **Yapay Zeka** mantığıyla öneriler sunan finansal asistan uygulaması. Verileri tarayıcı hafızasında (LocalStorage) saklar. | `JS`, `Chart.js`, `CSS` | [Canlı İzle](https://kulavuz-finans-v2.vercel.app/) |
 | **👨‍💼 Kişisel Portfolyo** | Projelerimi sergilediğim, karanlık/aydınlık mod desteği olan, modern ve responsive kişisel web sitem. | `HTML`, `CSS`, `JS` | [Canlı İzle](https://mustafakulavuz.github.io/mustafa-kulavuz-portfolio/) |
 
 <br>
